@@ -16,9 +16,11 @@
             "Gaurav\\LaravelEnv\\": "src/"
         }
     },
-    "laravel":{
-        "providers":[
-            "Gaurav\\LaravelEnv\\LaravelEnvServiceProvider"
-        ]
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Gaurav\\LaravelEnv\\LaravelEnvServiceProvider"
+            ]
+        }
     }
 }
