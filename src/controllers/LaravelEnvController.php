@@ -10,7 +10,7 @@ class LaravelEnvController extends Controller
     private $tempContainer = [];
     public function index()
     {
-        $myfile = fopen(__DIR__."../../../../../.env", "r") or die(".env file is missing in your project.");
+        $myfile = fopen(__DIR__."../../../../../../.env", "r") or die(".env file is missing in your project.");
         while(!feof($myfile)) {
             $temp = explode('=', fgets($myfile));
             array_push($this->tempContainer, $temp);
