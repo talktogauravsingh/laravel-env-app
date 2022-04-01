@@ -15,5 +15,10 @@
         "psr-4": {
             "Gaurav\\LaravelEnv\\": "src/"
         }
+    },
+    "laravel":{
+        "providers":[
+            "Gaurav\\LaravelEnv\\LaravelEnvServiceProvider::class"
+        ]
     }
 }
