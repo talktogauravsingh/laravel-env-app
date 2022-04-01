@@ -1,5 +1,5 @@
 {
-    "name": "gaurav/laravel-env",
+    "name": "gauravsingh/laravel-env",
     "description": "Laravel Env is env manager which help developer to share development and production env credential with their team.",
     "type": "library",
     "license": "MIT",
