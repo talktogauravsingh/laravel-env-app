@@ -2,6 +2,14 @@
     "name": "gauravsingh/laravel-env",
     "description": "Laravel Env is env manager which help developer to share development and production env credential with their team.",
     "type": "library",
+    "keywords": [
+        "talktogauravsingh",
+        "laravel",
+        "laravel-env",
+        "laravel-env-manager",
+        "laravel package"
+    ],
+    "homepage": "https://github.com/talktogauravsingh/laravel-env-app",
     "license": "MIT",
     "authors": [
         {
