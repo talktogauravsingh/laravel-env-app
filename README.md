@@ -1,7 +1,10 @@
 # Laravel Env Manager
 
-[![Issues](https://img.shields.io/github/issues/talktogauravsingh/laravel-env-app?style=flat-square)](https://github.com/talktogauravsingh/laravel-env-app/issues)
-[![Stars](https://img.shields.io/github/stars/talktogauravsingh/laravel-env-app?style=flat-square)](https://github.com/talktogauravsingh/laravel-env-app/stargazers)
+[![tag](https://img.shields.io/github/v/tag/talktogauravsingh/laravel-env-app)](https://github.com/talktogauravsingh/laravel-env-app/tags)
+[![downloads](https://img.shields.io/packagist/dt/gauravsingh/laravel-env)](https://packagist.org/packages/gauravsingh/laravel-env)
+[![Issues](https://img.shields.io/github/issues/talktogauravsingh/laravel-env-app?style=flat)](https://github.com/talktogauravsingh/laravel-env-app/issues)
+[![Stars](https://img.shields.io/github/stars/talktogauravsingh/laravel-env-app?style=flat)](https://github.com/talktogauravsingh/laravel-env-app/stargazers)
+[![release](https://img.shields.io/github/v/release/talktogauravsingh/laravel-env-app)](https://github.com/talktogauravsingh/laravel-env-app/releases)
 
 
 ## What ?
